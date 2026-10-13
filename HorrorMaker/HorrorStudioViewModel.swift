@@ -2,7 +2,6 @@
 //  HorrorStudioViewModel.swift
 //  HorrorMaker
 //
-//  Created by Codex on 2026/04/02.
 //
 
 import Foundation

@@ -2,7 +2,6 @@
 //  ScriptRefiner.swift
 //  HorrorMaker
 //
-//  Created by Codex on 2026/04/03.
 //
 
 import Foundation

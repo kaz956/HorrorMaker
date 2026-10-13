@@ -2,7 +2,6 @@
 //  SpeechDirector.swift
 //  HorrorMaker
 //
-//  Created by Codex on 2026/04/02.
 //
 
 @preconcurrency import AVFoundation
