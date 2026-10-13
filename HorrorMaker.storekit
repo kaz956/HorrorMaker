@@ -1,0 +1,66 @@
+{
+  "identifier" : "9A7C31F2",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "300",
+      "familyShareable" : false,
+      "internalID" : "C041A82F",
+      "localizations" : [
+        {
+          "description" : "怪談を10話ぶん追加できる単発購入パックです。",
+          "displayName" : "10話パック",
+          "locale" : "ja_JP"
+        }
+      ],
+      "productID" : "com.KazukiIchii.HorrorMaker.storypack.ten",
+      "referenceName" : "10話パック",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "7F8E12B4",
+      "localizations" : [
+
+      ],
+      "name" : "Horror+",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "980",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "E29CC7D1",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "怪談生成が無制限になり、空間音響やキーワード拡張が使える月額プランです。",
+              "displayName" : "Horror+ 月額",
+              "locale" : "ja_JP"
+            }
+          ],
+          "productID" : "com.KazukiIchii.HorrorMaker.horrorplus.monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Horror+ 月額",
+          "subscriptionGroupID" : "7F8E12B4",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 2,
+    "minor" : 0
+  }
+}
